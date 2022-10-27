@@ -1,0 +1,8 @@
+.CustomerCard {
+    padding: 1rem;
+    border: 1px solid #000;
+}
+
+.CustomerCard > * {
+    margin: 0 0 1rem;
+}
